@@ -1,0 +1,663 @@
+study_id,sex,age,findings
+CHNCXR_0001_0.png,Male,45,normal
+CHNCXR_0002_0.png,Male,63,normal
+CHNCXR_0003_0.png,Female,48,normal
+CHNCXR_0004_0.png,Male,58,normal
+CHNCXR_0005_0.png,Male,28,normal
+CHNCXR_0006_0.png,Male,60,normal
+CHNCXR_0007_0.png,Female,53,normal
+CHNCXR_0008_0.png,Male,48,normal
+CHNCXR_0009_0.png,Female,71,normal
+CHNCXR_0010_0.png,Female,59,normal
+CHNCXR_0011_0.png,Male,43,normal
+CHNCXR_0012_0.png,Male,39,normal
+CHNCXR_0013_0.png,Male,41,normal
+CHNCXR_0014_0.png,Male,39,normal
+CHNCXR_0015_0.png,Female,28,normal
+CHNCXR_0016_0.png,Female,57,normal
+CHNCXR_0017_0.png,Male,35,normal
+CHNCXR_0018_0.png,Male,42,normal
+CHNCXR_0019_0.png,Male,27,normal
+CHNCXR_0020_0.png,Male,32,normal
+CHNCXR_0021_0.png,Female,38,normal
+CHNCXR_0022_0.png,Male,56,normal
+CHNCXR_0023_0.png,Male,32,normal
+CHNCXR_0024_0.png,Male,22,normal
+CHNCXR_0025_0.png,Male,29,normal
+CHNCXR_0026_0.png,Male,29,normal
+CHNCXR_0027_0.png,Female,57,normal
+CHNCXR_0028_0.png,Male,39,normal
+CHNCXR_0029_0.png,Male,43,normal
+CHNCXR_0030_0.png,Male,38,normal
+CHNCXR_0031_0.png,Female,27,normal
+CHNCXR_0032_0.png,Female,53,normal
+CHNCXR_0033_0.png,Male,34,normal
+CHNCXR_0034_0.png,Female,60,normal
+CHNCXR_0035_0.png,Female,59,normal
+CHNCXR_0036_0.png,Male,26,normal
+CHNCXR_0037_0.png,Male,24,normal
+CHNCXR_0038_0.png,Male,27,normal
+CHNCXR_0039_0.png,Male,23,normal
+CHNCXR_0040_0.png,Female,55,normal
+CHNCXR_0041_0.png,Male,32,normal
+CHNCXR_0042_0.png,Male,58,normal
+CHNCXR_0043_0.png,Male,38,normal
+CHNCXR_0044_0.png,Male,32,normal
+CHNCXR_0045_0.png,Male,60,normal
+CHNCXR_0046_0.png,Male,44,normal
+CHNCXR_0047_0.png,Male,34,normal
+CHNCXR_0048_0.png,Male,23,normal
+CHNCXR_0049_0.png,Female,35,normal
+CHNCXR_0050_0.png,Female,38,normal
+CHNCXR_0051_0.png,Female,63,normal
+CHNCXR_0052_0.png,Female,35,normal
+CHNCXR_0053_0.png,Male,52,normal
+CHNCXR_0054_0.png,Female,25,normal
+CHNCXR_0055_0.png,Male,41,normal
+CHNCXR_0056_0.png,Male,48,normal
+CHNCXR_0057_0.png,Female,54,normal
+CHNCXR_0058_0.png,Female,56,normal
+CHNCXR_0059_0.png,Male,68,normal
+CHNCXR_0060_0.png,Female,33,normal
+CHNCXR_0061_0.png,Male,23,normal
+CHNCXR_0062_0.png,Female,28,normal
+CHNCXR_0063_0.png,Female,29,normal
+CHNCXR_0064_0.png,Male,36,normal
+CHNCXR_0065_0.png,Female,22,normal
+CHNCXR_0066_0.png,Male,36,normal
+CHNCXR_0067_0.png,Male,32,normal
+CHNCXR_0068_0.png,Male,31,normal
+CHNCXR_0069_0.png,Female,46,normal
+CHNCXR_0070_0.png,Female,20,normal
+CHNCXR_0071_0.png,Female,39,normal
+CHNCXR_0072_0.png,Male,25,normal
+CHNCXR_0073_0.png,Female,34,normal
+CHNCXR_0074_0.png,Male,3,normal
+CHNCXR_0075_0.png,Female,1,normal
+CHNCXR_0076_0.png,Male,1,normal
+CHNCXR_0077_0.png,Male,28,normal
+CHNCXR_0078_0.png,Male,31,normal
+CHNCXR_0079_0.png,Male,30,normal
+CHNCXR_0080_0.png,Male,39,normal
+CHNCXR_0081_0.png,Male,37,normal
+CHNCXR_0082_0.png,Male,45,normal
+CHNCXR_0083_0.png,Male,37,normal
+CHNCXR_0084_0.png,Female,27,normal
+CHNCXR_0085_0.png,Male,42,normal
+CHNCXR_0086_0.png,Female,53,normal
+CHNCXR_0087_0.png,Male,28,normal
+CHNCXR_0088_0.png,Male,30,normal
+CHNCXR_0089_0.png,Male,39,normal
+CHNCXR_0090_0.png,Male,39,normal
+CHNCXR_0091_0.png,Male,37,normal
+CHNCXR_0092_0.png,Male,37,normal
+CHNCXR_0093_0.png,Male,27,normal
+CHNCXR_0094_0.png,Female,24,normal
+CHNCXR_0095_0.png,Male,18,normal
+CHNCXR_0096_0.png,Male,69,normal
+CHNCXR_0097_0.png,Female,30,normal
+CHNCXR_0098_0.png,Male,54,normal
+CHNCXR_0099_0.png,Female,26,normal
+CHNCXR_0100_0.png,Male,25,normal
+CHNCXR_0101_0.png,Male,23,normal
+CHNCXR_0102_0.png,Female,25,normal
+CHNCXR_0103_0.png,Female,25,normal
+CHNCXR_0104_0.png,Male,43,normal
+CHNCXR_0105_0.png,Male,22,normal
+CHNCXR_0106_0.png,Male,26,normal
+CHNCXR_0107_0.png,Female,36,normal
+CHNCXR_0108_0.png,Male,22,normal
+CHNCXR_0109_0.png,Female,21,normal
+CHNCXR_0110_0.png,Male,42,normal
+CHNCXR_0111_0.png,Male,44,normal
+CHNCXR_0112_0.png,Male,33,normal
+CHNCXR_0113_0.png,Male,30,normal
+CHNCXR_0114_0.png,Male,20,normal
+CHNCXR_0115_0.png,Male,16,normal
+CHNCXR_0116_0.png,Male,49,normal
+CHNCXR_0117_0.png,Male,48,normal
+CHNCXR_0118_0.png,Female,26,normal
+CHNCXR_0119_0.png,Male,20,normal
+CHNCXR_0120_0.png,Male,19,normal
+CHNCXR_0121_0.png,Male,21,normal
+CHNCXR_0122_0.png,Female,20,normal
+CHNCXR_0123_0.png,Female,64,normal
+CHNCXR_0124_0.png,Male,34,normal
+CHNCXR_0125_0.png,Male,30,normal
+CHNCXR_0126_0.png,Female,65,normal
+CHNCXR_0127_0.png,Female,24,normal
+CHNCXR_0128_0.png,Male,28,normal
+CHNCXR_0129_0.png,Female,43,normal
+CHNCXR_0130_0.png,Male,26,normal
+CHNCXR_0131_0.png,Male,19,normal
+CHNCXR_0132_0.png,Female,50,normal
+CHNCXR_0133_0.png,Male,28,normal
+CHNCXR_0134_0.png,Male,29,normal
+CHNCXR_0135_0.png,Male,20,normal
+CHNCXR_0136_0.png,Male,30,normal
+CHNCXR_0137_0.png,Male,24,normal
+CHNCXR_0138_0.png,Female,30,normal
+CHNCXR_0139_0.png,Female,27,normal
+CHNCXR_0140_0.png,Female,39,normal
+CHNCXR_0141_0.png,Female,36,normal
+CHNCXR_0142_0.png,Male,22,normal
+CHNCXR_0143_0.png,Female,47,normal
+CHNCXR_0144_0.png,Male,31,normal
+CHNCXR_0145_0.png,Male,45,normal
+CHNCXR_0146_0.png,Male,22,normal
+CHNCXR_0147_0.png,Male,23,normal
+CHNCXR_0148_0.png,Male,24,normal
+CHNCXR_0149_0.png,Male,31,normal
+CHNCXR_0150_0.png,Male,45,normal
+CHNCXR_0151_0.png,Female,25,normal
+CHNCXR_0152_0.png,Female,24,normal
+CHNCXR_0153_0.png,Female,37,normal
+CHNCXR_0154_0.png,Male,31,normal
+CHNCXR_0155_0.png,Male,5,normal
+CHNCXR_0156_0.png,Female,38,normal
+CHNCXR_0157_0.png,Male,23,normal
+CHNCXR_0158_0.png,Female,36,normal
+CHNCXR_0159_0.png,Male,22,normal
+CHNCXR_0160_0.png,Female,23,normal
+CHNCXR_0161_0.png,Female,48,normal
+CHNCXR_0162_0.png,Male,23,normal
+CHNCXR_0163_0.png,Male,28,normal
+CHNCXR_0164_0.png,Male,53,normal
+CHNCXR_0165_0.png,Male,39,normal
+CHNCXR_0166_0.png,Female,31,normal
+CHNCXR_0167_0.png,Male,47,normal
+CHNCXR_0168_0.png,Male,27,normal
+CHNCXR_0169_0.png,Male,2,normal
+CHNCXR_0170_0.png,Male,23,normal
+CHNCXR_0171_0.png,Male,19,normal
+CHNCXR_0172_0.png,Female,26,normal
+CHNCXR_0173_0.png,Male,28,normal
+CHNCXR_0174_0.png,Male,68,normal
+CHNCXR_0175_0.png,Female,70,normal
+CHNCXR_0176_0.png,Female,64,normal
+CHNCXR_0177_0.png,Male,19,normal
+CHNCXR_0178_0.png,Male,1,normal
+CHNCXR_0179_0.png,Male,22,normal
+CHNCXR_0180_0.png,Female,36,normal
+CHNCXR_0181_0.png,Female,43,normal
+CHNCXR_0182_0.png,Male,37,normal
+CHNCXR_0183_0.png,Male,32,normal
+CHNCXR_0184_0.png,Female,33,normal
+CHNCXR_0185_0.png,Male,44,normal
+CHNCXR_0186_0.png,Male,44,normal
+CHNCXR_0187_0.png,Male,23,normal
+CHNCXR_0188_0.png,Male,25,normal
+CHNCXR_0189_0.png,Male,27,normal
+CHNCXR_0190_0.png,Male,34,normal
+CHNCXR_0191_0.png,Male,33,normal
+CHNCXR_0192_0.png,Male,24,normal
+CHNCXR_0193_0.png,Female,24,normal
+CHNCXR_0194_0.png,Male,23,normal
+CHNCXR_0195_0.png,Male,26,normal
+CHNCXR_0196_0.png,Male,26,normal
+CHNCXR_0197_0.png,Male,36,normal
+CHNCXR_0198_0.png,Male,26,normal
+CHNCXR_0199_0.png,Female,26,normal
+CHNCXR_0200_0.png,Male,24,normal
+CHNCXR_0201_0.png,Male,16,normal
+CHNCXR_0202_0.png,Female,64,normal
+CHNCXR_0203_0.png,Male,25,normal
+CHNCXR_0204_0.png,Male,24,normal
+CHNCXR_0205_0.png,Male,1,normal
+CHNCXR_0206_0.png,Male,3,normal
+CHNCXR_0207_0.png,Male,25,normal
+CHNCXR_0208_0.png,Female,30,normal
+CHNCXR_0209_0.png,Male,25,normal
+CHNCXR_0210_0.png,Male,27,normal
+CHNCXR_0211_0.png,Male,27,normal
+CHNCXR_0212_0.png,Male,32,normal
+CHNCXR_0213_0.png,Male,43,normal
+CHNCXR_0214_0.png,Male,31,normal
+CHNCXR_0215_0.png,Male,4,normal
+CHNCXR_0216_0.png,Male,40,normal
+CHNCXR_0217_0.png,Female,28,normal
+CHNCXR_0218_0.png,Male,24,normal
+CHNCXR_0219_0.png,Male,33,normal
+CHNCXR_0220_0.png,Male,45,normal
+CHNCXR_0221_0.png,Male,29,normal
+CHNCXR_0222_0.png,Male,25,normal
+CHNCXR_0223_0.png,Male,20,normal
+CHNCXR_0224_0.png,Male,25,normal
+CHNCXR_0225_0.png,Male,30,normal
+CHNCXR_0226_0.png,Male,25,normal
+CHNCXR_0227_0.png,Male,50,normal
+CHNCXR_0228_0.png,Male,1,normal
+CHNCXR_0229_0.png,Female,40,normal
+CHNCXR_0230_0.png,Male,44,normal
+CHNCXR_0231_0.png,Male,33,normal
+CHNCXR_0232_0.png,Male,23,normal
+CHNCXR_0233_0.png,Male,41,normal
+CHNCXR_0234_0.png,Male,23,normal
+CHNCXR_0235_0.png,Female,31,normal
+CHNCXR_0236_0.png,Male,24,normal
+CHNCXR_0237_0.png,Male,34,normal
+CHNCXR_0238_0.png,Male,42,normal
+CHNCXR_0239_0.png,Male,30,normal
+CHNCXR_0240_0.png,Male,26,normal
+CHNCXR_0241_0.png,Female,34,normal
+CHNCXR_0242_0.png,Female,33,normal
+CHNCXR_0243_0.png,Male,27,normal
+CHNCXR_0244_0.png,Female,26,normal
+CHNCXR_0245_0.png,Male,23,normal
+CHNCXR_0246_0.png,Male,35,normal
+CHNCXR_0247_0.png,Female,39,normal
+CHNCXR_0248_0.png,Female,2,normal
+CHNCXR_0249_0.png,Male,31,normal
+CHNCXR_0250_0.png,Male,35,normal
+CHNCXR_0251_0.png,Male,52,normal
+CHNCXR_0252_0.png,Male,25,normal
+CHNCXR_0253_0.png,Male,85,normal
+CHNCXR_0254_0.png,Male,53,normal
+CHNCXR_0255_0.png,Male,33,normal
+CHNCXR_0256_0.png,Female,5,normal
+CHNCXR_0257_0.png,Male,42,normal
+CHNCXR_0258_0.png,Male,30,normal
+CHNCXR_0259_0.png,Male,7,normal
+CHNCXR_0260_0.png,Female,46,normal
+CHNCXR_0261_0.png,Female,25,normal
+CHNCXR_0262_0.png,Male,36,normal
+CHNCXR_0263_0.png,Female,24,normal
+CHNCXR_0264_0.png,Female,27,normal
+CHNCXR_0265_0.png,Female,6,normal
+CHNCXR_0266_0.png,Male,23,normal
+CHNCXR_0267_0.png,Female,53,normal
+CHNCXR_0268_0.png,Male,33,normal
+CHNCXR_0269_0.png,Male,31,normal
+CHNCXR_0270_0.png,Male,28,normal
+CHNCXR_0271_0.png,Male,26,normal
+CHNCXR_0272_0.png,Female,62,normal
+CHNCXR_0273_0.png,Male,8,normal
+CHNCXR_0274_0.png,Female,64,normal
+CHNCXR_0275_0.png,Male,32,normal
+CHNCXR_0276_0.png,Male,48,normal
+CHNCXR_0277_0.png,Male,47,normal
+CHNCXR_0278_0.png,Male,14,normal
+CHNCXR_0279_0.png,Male,35,normal
+CHNCXR_0280_0.png,Male,29,normal
+CHNCXR_0281_0.png,Male,28,normal
+CHNCXR_0282_0.png,Male,46,normal
+CHNCXR_0283_0.png,Male,25,normal
+CHNCXR_0284_0.png,Male,59,normal
+CHNCXR_0285_0.png,Male,35,normal
+CHNCXR_0286_0.png,Male,64,normal
+CHNCXR_0287_0.png,Female,35,normal
+CHNCXR_0288_0.png,Male,28,normal
+CHNCXR_0289_0.png,Female,21,normal
+CHNCXR_0290_0.png,Male,42,normal
+CHNCXR_0291_0.png,Female,37,normal
+CHNCXR_0292_0.png,Female,28,normal
+CHNCXR_0293_0.png,Male,36,normal
+CHNCXR_0294_0.png,Female,30,normal
+CHNCXR_0295_0.png,Female,52,normal
+CHNCXR_0296_0.png,Female,39,normal
+CHNCXR_0297_0.png,Male,1,normal
+CHNCXR_0298_0.png,Male,37,normal
+CHNCXR_0299_0.png,Female,5,normal
+CHNCXR_0300_0.png,Male,36,normal
+CHNCXR_0301_0.png,Female,42,normal
+CHNCXR_0302_0.png,Female,28,normal
+CHNCXR_0303_0.png,Male,3,normal
+CHNCXR_0304_0.png,Male,19,normal
+CHNCXR_0305_0.png,Male,24,normal
+CHNCXR_0306_0.png,Male,17,normal
+CHNCXR_0307_0.png,Female,38,normal
+CHNCXR_0308_0.png,Male,32,normal
+CHNCXR_0309_0.png,Female,27,normal
+CHNCXR_0310_0.png,Female,36,normal
+CHNCXR_0311_0.png,Male,39,normal
+CHNCXR_0312_0.png,Female,47,normal
+CHNCXR_0313_0.png,Male,6,normal
+CHNCXR_0314_0.png,Male,30,normal
+CHNCXR_0315_0.png,Male,30,normal
+CHNCXR_0316_0.png,Female,43,normal
+CHNCXR_0317_0.png,Male,30,normal
+CHNCXR_0318_0.png,Male,25,normal
+CHNCXR_0319_0.png,Female,50,normal
+CHNCXR_0320_0.png,Male,38,normal
+CHNCXR_0321_0.png,Male,30,normal
+CHNCXR_0322_0.png,Male,38,normal
+CHNCXR_0323_0.png,Male,28,normal
+CHNCXR_0324_0.png,Male,32,normal
+CHNCXR_0325_0.png,Male,39,normal
+CHNCXR_0326_0.png,Male,38,normal
+CHNCXR_0327_1.png,Male,28,STB
+CHNCXR_0328_1.png,Female,40,STB
+CHNCXR_0329_1.png,Female,40,TB
+CHNCXR_0330_1.png,Male,32,STB
+CHNCXR_0331_1.png,Female,36,STB
+CHNCXR_0332_1.png,Male,58,STB
+CHNCXR_0333_1.png,Male,32,STB
+CHNCXR_0334_1.png,Male,44,STB
+CHNCXR_0335_1.png,Male,37,STB
+CHNCXR_0336_1.png,Male,30,STB
+CHNCXR_0337_1.png,Male,31,STB
+CHNCXR_0338_1.png,Male,49,STB
+CHNCXR_0339_1.png,Male,24,STB
+CHNCXR_0340_1.png,Male,34,STB
+CHNCXR_0341_1.png,Female,43,STB
+CHNCXR_0342_1.png,Male,27,STB
+CHNCXR_0343_1.png,Male,24,STB
+CHNCXR_0344_1.png,Female,29,STB
+CHNCXR_0345_1.png,Male,40,STB
+CHNCXR_0346_1.png,Female,26,STB
+CHNCXR_0347_1.png,Male,24,PTB in the left lower field
+CHNCXR_0348_1.png,Female,32,"Bilateral secondary PTB , right pleural change after decortication"
+CHNCXR_0349_1.png,Male,46,bilateral PTB ?right pleurisy with pleural effusion
+CHNCXR_0350_1.png,Male,55,PTB in the left upper field
+CHNCXR_0351_1.png,Male,39,secondary PTB in the right upper field
+CHNCXR_0352_1.png,Male,17,secondary PTB in the bilateral upper field
+CHNCXR_0353_1.png,Female,16,PTB in the left upper field
+CHNCXR_0354_1.png,Male,27,PTB in the right upper field
+CHNCXR_0355_1.png,Male,79,bilateral PTB
+CHNCXR_0356_1.png,Female,78,bilateral PTB
+CHNCXR_0357_1.png,Male,49,PTB in the left upper field
+CHNCXR_0358_1.png,Female,39,secondary PTB  in the right upper field
+CHNCXR_0359_1.png,Male,24,"bilateral PTB,right upper field atelectasis"
+CHNCXR_0360_1.png,Female,23,Bilateral secondary PTB
+CHNCXR_0361_1.png,Female,49,"Bilateral secondary PTB, left encapsulated intrathoracic fluid"
+CHNCXR_0362_1.png,Male,25,PTB in the right lower field
+CHNCXR_0363_1.png,Female,38,secondary PTB  in the right upper field
+CHNCXR_0364_1.png,Male,24,Right PTB
+CHNCXR_0365_1.png,Female,38,"Left PTB, left pleural thickening"
+CHNCXR_0366_1.png,Male,33,PTB in the bilateral upper and middle field
+CHNCXR_0367_1.png,Male,27,Old PTB in the right upper field
+CHNCXR_0368_1.png,Female,10,"left PTB,pleural thickening"
+CHNCXR_0369_1.png,Male,39,bilateral PTB
+CHNCXR_0370_1.png,Male,75,"bilateral PTB, with left pleural effusion"
+CHNCXR_0371_1.png,Male,40,PTB  in the right upper field
+CHNCXR_0372_1.png,Male,42,Right PTB
+CHNCXR_0373_1.png,Male,39,PTB  in the right upper field
+CHNCXR_0374_1.png,Male,19,PTB  in the right upper field
+CHNCXR_0375_1.png,Male,34,left PTB
+CHNCXR_0376_1.png,Male,56,Right PTB
+CHNCXR_0377_1.png,Male,25,PTB in the bilateral upper field
+CHNCXR_0378_1.png,Male,78,Right PTB
+CHNCXR_0379_1.png,Female,28,PTB in the bilateral upper field
+CHNCXR_0380_1.png,Female,55,"left PTB,left pleurisy"
+CHNCXR_0381_1.png,Male,40,"left PTB,left pleurisy"
+CHNCXR_0382_1.png,Male,33,bilateral PTB
+CHNCXR_0383_1.png,Male,58,bilateral PTB
+CHNCXR_0384_1.png,Female,29,bilateral PTB
+CHNCXR_0385_1.png,Male,60,Right PTB
+CHNCXR_0386_1.png,Female,47,secondary PTB  in the bilateral upper field
+CHNCXR_0387_1.png,Male,34,Right PTB
+CHNCXR_0388_1.png,Male,18,bilateral PTB
+CHNCXR_0389_1.png,Male,63,"Right pneumothorax, Right upper PTB, bilateral widespread infection"
+CHNCXR_0390_1.png,Male,25,Right PTB
+CHNCXR_0391_1.png,Female,67,right upper pneumonia
+CHNCXR_0392_1.png,Male,28,Right PTB
+CHNCXR_0393_1.png,Female,24,"right upper PTB, pleural adhesions in  left lower field"
+CHNCXR_0394_1.png,Male,45,right upper PTB
+CHNCXR_0395_1.png,Male,31,"bilateral PTB, right pleurisy"
+CHNCXR_0396_1.png,Male,35,right upper PTB
+CHNCXR_0397_1.png,Female,32,PTB in the right upper field
+CHNCXR_0398_1.png,Female,33,PTB in the right upper field
+CHNCXR_0399_1.png,Male,81,PTB in the bilateral upper field
+CHNCXR_0400_1.png,Female,28,right upper PTB with fibrous changes
+CHNCXR_0401_1.png,Female,60,bilateral PTB
+CHNCXR_0402_1.png,Male,25,Right PTB with fibrous changes
+CHNCXR_0403_1.png,Male,32,"bilateral PTB,  right upper lobe atelectasis"
+CHNCXR_0404_1.png,Male,19,PTB in the bilateral upper field
+CHNCXR_0405_1.png,Male,44,PTB in the left upper field
+CHNCXR_0406_1.png,Female,29,bilateral PTB
+CHNCXR_0407_1.png,Female,28,PTB in the right upper field
+CHNCXR_0408_1.png,Male,30,"bilateral PTB, with cavity formation in right upper field"
+CHNCXR_0409_1.png,Female,33,PTB in the bilateral upper field
+CHNCXR_0410_1.png,Female,18,secondary PTB  in the bilateral upper fields
+CHNCXR_0411_1.png,Male,38,left secondary PTB
+CHNCXR_0412_1.png,Female,39,secondary PTB  in the right upper field
+CHNCXR_0413_1.png,Female,20,PTB in the right upper field
+CHNCXR_0414_1.png,Male,31,Right PTB
+CHNCXR_0415_1.png,Male,23,PTB in the right upper field
+CHNCXR_0416_1.png,Female,61,PTB in the right upper field
+CHNCXR_0417_1.png,Male,67,"PTB in the right upper field,COPD"
+CHNCXR_0418_1.png,Male,32,PTB in the right upper field
+CHNCXR_0419_1.png,Female,40,secondary PTB  in the bilateral upper field
+CHNCXR_0420_1.png,Male,27,secondary PTB  in the left upper field
+CHNCXR_0421_1.png,Male,49,PTB in the right upper field
+CHNCXR_0422_1.png,Male,28,PTB in the bilateral upper field
+CHNCXR_0423_1.png,Male,50,Bilateral secondary PTB
+CHNCXR_0424_1.png,Female,35,"right secondary PTB, right pleurisy with  pleural effusion"
+CHNCXR_0425_1.png,Male,43,Bilateral secondary PTB
+CHNCXR_0426_1.png,Male,33,PTB in the right upper field
+CHNCXR_0427_1.png,Male,24,secondary PTB  in the right upper field
+CHNCXR_0428_1.png,Female,39,secondary PTB  in the right upper field
+CHNCXR_0429_1.png,Female,27,secondary PTB  in the bilateral upper field
+CHNCXR_0430_1.png,Female,48,PTB in the right upper field
+CHNCXR_0431_1.png,Male,24,bilateral PTB
+CHNCXR_0432_1.png,Male,30,Bilateral secondary PTB
+CHNCXR_0433_1.png,Male,26,Right PTB
+CHNCXR_0434_1.png,Male,28,secondary PTB  in the left upper field
+CHNCXR_0435_1.png,Male,22,"left upper PTB, left pleurisy"
+CHNCXR_0436_1.png,Male,21,right upper PTB
+CHNCXR_0437_1.png,Female,39,PTB in the left upper field
+CHNCXR_0438_1.png,Male,31,left PTB
+CHNCXR_0439_1.png,Male,34,bilateral PTB
+CHNCXR_0440_1.png,Female,31,right upper PTB
+CHNCXR_0441_1.png,Male,63,"right PTB,right pneumothorax"
+CHNCXR_0442_1.png,Male,27,right upper PTB
+CHNCXR_0443_1.png,Male,36,right upper PTB
+CHNCXR_0444_1.png,Male,15,left PTB
+CHNCXR_0445_1.png,Male,31,Right PTB
+CHNCXR_0446_1.png,Female,26,Bilateral secondary PTB
+CHNCXR_0447_1.png,Male,56,Bilateral secondary PTB
+CHNCXR_0448_1.png,Female,78,Bilateral secondary PTB
+CHNCXR_0449_1.png,Male,35,Bilateral secondary PTB
+CHNCXR_0450_1.png,Female,22,right secondary PTB
+CHNCXR_0451_1.png,Male,32,right secondary PTB
+CHNCXR_0452_1.png,Female,21,Bilateral secondary PTB
+CHNCXR_0453_1.png,Female,33,right secondary PTB
+CHNCXR_0454_1.png,Male,44,right upper field PTB
+CHNCXR_0455_1.png,Female,78,right secondary PTB  with bilateral  pleurisy
+CHNCXR_0456_1.png,Female,28,bilateral PTB
+CHNCXR_0457_1.png,Female,31,Bilateral secondary PTB
+CHNCXR_0458_1.png,Male,36,Bilateral secondary PTB
+CHNCXR_0459_1.png,Female,59,bilateral PTB
+CHNCXR_0460_1.png,Male,41,left PTB
+CHNCXR_0461_1.png,Male,34,right secondary PTB
+CHNCXR_0462_1.png,Male,29,secondary PTB  in the left upper field
+CHNCXR_0463_1.png,Male,29,left secondary PTB
+CHNCXR_0464_1.png,Male,45,Right PTB
+CHNCXR_0465_1.png,Male,24,Bilateral secondary PTB
+CHNCXR_0466_1.png,Female,32,secondary PTB  in the left upper field
+CHNCXR_0467_1.png,Female,39,secondary PTB  in the left upper field
+CHNCXR_0468_1.png,Female,29,Right PTB
+CHNCXR_0469_1.png,Female,22,bilateral PTB
+CHNCXR_0470_1.png,Female,38,right secondary PTB
+CHNCXR_0471_1.png,Female,31,right secondary PTB
+CHNCXR_0472_1.png,Male,40,Right PTB
+CHNCXR_0473_1.png,Male,32,right secondary PTB
+CHNCXR_0474_1.png,Male,48,bilateral PTB
+CHNCXR_0475_1.png,Male,36,bilateral PTB
+CHNCXR_0476_1.png,Male,56,"left secondary PTB,right pleural effusion"
+CHNCXR_0477_1.png,Male,23,left PTB
+CHNCXR_0478_1.png,Female,26,Right PTB
+CHNCXR_0479_1.png,Male,56,PTB in the left upper field
+CHNCXR_0480_1.png,Female,41,PTB in the bilateral upper field
+CHNCXR_0481_1.png,Male,26,bilateral secondary PTB
+CHNCXR_0482_1.png,Female,30,PTB in the right lower field
+CHNCXR_0483_1.png,Male,36,"PTB in the bilateral upper fields, left pleurisy"
+CHNCXR_0484_1.png,Female,29,right secondary PTB
+CHNCXR_0485_1.png,Male,34,right secondary PTB
+CHNCXR_0486_1.png,Male,22,PTB in the bilateral upper field
+CHNCXR_0487_1.png,Male,72,Bilateral secondary PTB
+CHNCXR_0488_1.png,Female,43,PTB in the left lower field
+CHNCXR_0489_1.png,Male,22,PTB in the left upper field
+CHNCXR_0490_1.png,Male,27,bilateral PTB
+CHNCXR_0491_1.png,Male,42,bilateral PTB
+CHNCXR_0492_1.png,Female,44,bilateral PTB
+CHNCXR_0493_1.png,Male,40,bilateral PTB
+CHNCXR_0494_1.png,Female,23,secondary PTB  in the right  middle field
+CHNCXR_0495_1.png,Female,24,Left PTB
+CHNCXR_0496_1.png,Male,72,bilateral PTB
+CHNCXR_0497_1.png,Male,45,bilateral PTB
+CHNCXR_0498_1.png,Male,33,PTB in the middle lower field
+CHNCXR_0499_1.png,Male,25,Right PTB
+CHNCXR_0500_1.png,Female,22,bilateral PTB
+CHNCXR_0501_1.png,Male,36,PTB in the left upper field
+CHNCXR_0502_1.png,Male,48,bilateral PTB
+CHNCXR_0503_1.png,Male,25,Right PTB
+CHNCXR_0504_1.png,Male,19,PTB in the left lower field
+CHNCXR_0505_1.png,Male,26,Right PTB
+CHNCXR_0506_1.png,Male,89,bilateral PTB
+CHNCXR_0507_1.png,Female,32,bilateral PTB
+CHNCXR_0508_1.png,Male,51,bilateral PTB
+CHNCXR_0509_1.png,Male,25,Right PTB
+CHNCXR_0510_1.png,Female,25,Right PTB
+CHNCXR_0511_1.png,Male,51,bilateral PTB
+CHNCXR_0512_1.png,Male,65,Right PTB
+CHNCXR_0513_1.png,Male,74,Right PTB
+CHNCXR_0514_1.png,Female,28,bilateral PTB
+CHNCXR_0515_1.png,Male,23,PTB in the left upper field
+CHNCXR_0516_1.png,Male,37,PTB in the right upper field
+CHNCXR_0517_1.png,Female,29,PTB in the right upper field
+CHNCXR_0518_1.png,Male,39,PTB in the left upper field
+CHNCXR_0519_1.png,Male,35,Right PTB
+CHNCXR_0520_1.png,Male,24,PTB in the right upper field
+CHNCXR_0521_1.png,Male,34,PTB in the right upper field
+CHNCXR_0522_1.png,Male,33,bilateral PTB
+CHNCXR_0523_1.png,Male,63,bilateral PTB
+CHNCXR_0524_1.png,Male,63,Right PTB
+CHNCXR_0525_1.png,Male,39,bilateral PTB
+CHNCXR_0526_1.png,Male,63,bilateral PTB
+CHNCXR_0527_1.png,Male,56,bilateral PTB
+CHNCXR_0528_1.png,Female,25,Right PTB
+CHNCXR_0529_1.png,Female,24,bilateral PTB
+CHNCXR_0530_1.png,Male,55,PTB in the bilateral upper fields
+CHNCXR_0531_1.png,Female,23,bilateral PTB
+CHNCXR_0532_1.png,Female,45,PTB in the right upper field
+CHNCXR_0533_1.png,Male,57,PTB in the left upper field
+CHNCXR_0534_1.png,Male,21,Right PTB
+CHNCXR_0535_1.png,Male,21,PTB in the right lower field
+CHNCXR_0536_1.png,Female,28,PTB in the right upper field
+CHNCXR_0537_1.png,Male,33,PTB in the bilateral upper fields
+CHNCXR_0538_1.png,Male,38,PTB in the bilateral upper fields
+CHNCXR_0539_1.png,Male,38,PTB in the left upper field
+CHNCXR_0540_1.png,Male,30,PTB in the left upper field
+CHNCXR_0541_1.png,Male,23,PTB in the right upper field
+CHNCXR_0542_1.png,Female,24,PTB in the right upper field
+CHNCXR_0543_1.png,Male,28,PTB in the left upper field
+CHNCXR_0544_1.png,Male,59,PTB
+CHNCXR_0545_1.png,Male,53,Right PTB
+CHNCXR_0546_1.png,Female,36,bilateral PTB
+CHNCXR_0547_1.png,Male,24,Right PTB
+CHNCXR_0548_1.png,Male,46,PTB
+CHNCXR_0549_1.png,Female,63,bilateral PTB
+CHNCXR_0550_1.png,Male,82,Right PTB
+CHNCXR_0551_1.png,Male,25,Right PTB
+CHNCXR_0552_1.png,Male,45,PTB in the right upper field
+CHNCXR_0553_1.png,Male,22,bilateral PTB
+CHNCXR_0554_1.png,Male,23,Left PTB
+CHNCXR_0555_1.png,Male,22,bilateral hematogenous disseminated PTB
+CHNCXR_0556_1.png,Male,26,bilateral PTB
+CHNCXR_0557_1.png,Male,27,Right PTB
+CHNCXR_0558_1.png,Male,40,bilateral PTB
+CHNCXR_0559_1.png,Male,40,Right PTB
+CHNCXR_0560_1.png,Male,32,bilateral PTB
+CHNCXR_0561_1.png,Male,51,bilateral PTB
+CHNCXR_0562_1.png,Male,33,left PTB
+CHNCXR_0563_1.png,Male,69,left PTB
+CHNCXR_0564_1.png,Female,38,Right PTB
+CHNCXR_0565_1.png,Male,79,bilateral PTB
+CHNCXR_0566_1.png,Male,38,Right PTB
+CHNCXR_0567_1.png,Male,61,bilateral PTB
+CHNCXR_0568_1.png,Male,50,bilateral PTB
+CHNCXR_0569_1.png,Male,51,bilateral PTB
+CHNCXR_0570_1.png,Male,28,bilateral PTB
+CHNCXR_0571_1.png,Female,36,Right PTB
+CHNCXR_0572_1.png,Female,57,bilateral PTB
+CHNCXR_0573_1.png,Male,32,bilateral PTB
+CHNCXR_0574_1.png,Female,35,Right PTB
+CHNCXR_0575_1.png,Female,33,bilateral PTB
+CHNCXR_0576_1.png,Male,63,Right PTB
+CHNCXR_0577_1.png,Female,74,Right PTB
+CHNCXR_0578_1.png,Male,29,Right PTB
+CHNCXR_0579_1.png,Male,24,left PTB
+CHNCXR_0580_1.png,Male,25,left PTB
+CHNCXR_0581_1.png,Male,25,left PTB
+CHNCXR_0582_1.png,Male,44,bilateral PTB
+CHNCXR_0583_1.png,Male,29,Right PTB
+CHNCXR_0584_1.png,Female,22,left PTB
+CHNCXR_0585_1.png,Male,18,left PTB
+CHNCXR_0586_1.png,Female,38,bilateral PTB
+CHNCXR_0587_1.png,Male,34,left PTB
+CHNCXR_0588_1.png,Male,25,secondary PTB  in the left upper field
+CHNCXR_0589_1.png,Male,54,bilateral secondary PTB
+CHNCXR_0590_1.png,Male,21,secondary PTB  in the bilateral upper fields
+CHNCXR_0591_1.png,Male,46,right lower field PTB
+CHNCXR_0592_1.png,Male,55,left PTB
+CHNCXR_0593_1.png,Female,25,secondary PTB  in the left upper field
+CHNCXR_0594_1.png,Female,29,bilateral PTB
+CHNCXR_0595_1.png,Female,22,right lower field PTB
+CHNCXR_0596_1.png,Male,46,bilateral PTB
+CHNCXR_0597_1.png,Male,36,Right PTB
+CHNCXR_0598_1.png,Female,15,"bilateral PTB, right pleurisy"
+CHNCXR_0599_1.png,Male,39,Right PTB
+CHNCXR_0600_1.png,Male,23,bilateral subacute hematogenous disseminated PTB
+CHNCXR_0601_1.png,Female,58,left PTB
+CHNCXR_0602_1.png,Male,42,bilateral PTB
+CHNCXR_0603_1.png,Male,60,bilateral PTB
+CHNCXR_0604_1.png,Male,35,Right PTB
+CHNCXR_0605_1.png,Male,23,left PTB
+CHNCXR_0606_1.png,Female,78,bilateral PTB
+CHNCXR_0607_1.png,Male,17,left PTB
+CHNCXR_0608_1.png,Male,37,left PTB
+CHNCXR_0609_1.png,Male,26,PTB in the left upper field
+CHNCXR_0610_1.png,Female,53,Bilateral secondary PTB
+CHNCXR_0611_1.png,Female,20,PTB in the right upper field
+CHNCXR_0612_1.png,Male,42,right secondary PTB
+CHNCXR_0613_1.png,Female,30,Old PTB in the right upper field
+CHNCXR_0614_1.png,Female,32,PTB in the right upper field
+CHNCXR_0615_1.png,Female,40,PTB in the right upper field
+CHNCXR_0616_1.png,Male,54,PTB in the right upper field
+CHNCXR_0617_1.png,Male,49,Right PTB
+CHNCXR_0618_1.png,Male,25,bilateral PTB
+CHNCXR_0619_1.png,Female,38,PTB in the left upper field
+CHNCXR_0620_1.png,Male,37,PTB in the right upper field
+CHNCXR_0621_1.png,Male,42,Right PTB
+CHNCXR_0622_1.png,Female,49,left PTB
+CHNCXR_0623_1.png,Female,39,PTB in the right upper field
+CHNCXR_0624_1.png,Female,76,PTB in the left upper field
+CHNCXR_0625_1.png,Male,30,PTB in the right upper field
+CHNCXR_0626_1.png,Male,49,PTB in the right lower field
+CHNCXR_0627_1.png,Female,26,secondary PTB  in the right upper field
+CHNCXR_0628_1.png,Male,27,secondary PTB  in the right upper field
+CHNCXR_0629_1.png,Male,62,Bilateral secondary PTB
+CHNCXR_0630_1.png,Male,2,secondary PTB  in the bilateral upper field
+CHNCXR_0631_1.png,Female,28,secondary PTB  in the right upper field
+CHNCXR_0632_1.png,Female,30,PTB in the left upper field
+CHNCXR_0633_1.png,Male,35,PTB in the left upper field
+CHNCXR_0634_1.png,Male,28,secondary PTB  in the bilateral upper field
+CHNCXR_0635_1.png,Male,65,bilateral PTB
+CHNCXR_0636_1.png,Male,35,Bilateral secondary PTB
+CHNCXR_0637_1.png,Male,44,bilateral PTB
+CHNCXR_0638_1.png,Male,36,Bilateral secondary PTB with left lower field pneumonia
+CHNCXR_0639_1.png,Male,28,bilateral acute hematogenous disseminated PTB
+CHNCXR_0640_1.png,Male,38,Bilateral secondary PTB  with most lesions calcified
+CHNCXR_0641_1.png,Male,28,left secondary PTB
+CHNCXR_0642_1.png,Male,43,secondary PTB  in the right upper field
+CHNCXR_0643_1.png,Male,43,secondary PTB  in the bilateral upper field
+CHNCXR_0644_1.png,Male,44,1.secondary PTB  in the right upper field; 2.small tuberculoma; 3.right pleural thickening and adhesions
+CHNCXR_0645_1.png,Male,27,"Left secondary PTB in the upper and middle fields, mainly  fibrous  lesions"
+CHNCXR_0646_1.png,Male,31,secondary PTB  in the left lower field
+CHNCXR_0647_1.png,Male,38,"secondary PTB in the bilateral upper and middle fields, mainly fibrous  lesions"
+CHNCXR_0648_1.png,Male,26,bilateral secondary PTB with multiple cavitations
+CHNCXR_0649_1.png,Male,29,"bilateral secondary PTB,mainly hyperplastic lesions"
+CHNCXR_0650_1.png,Male,50,secondary PTB  in the right upper field
+CHNCXR_0651_1.png,Male,49,"Right secondary PTB,mainly hyperplastic lesions"
+CHNCXR_0652_1.png,Male,51,secondary PTB  in thel left upper field
+CHNCXR_0653_1.png,Male,69,bilateral secondary PTB  with pleural thickening
+CHNCXR_0654_1.png,Male,28,Right secondary PTB
+CHNCXR_0655_1.png,Male,33,"secondary PTB in the right upper field,mainly hyperplastic lesions"
+CHNCXR_0656_1.png,Male,35,secondary PTB  in the right upper field
+CHNCXR_0657_1.png,Male,31,Right secondary PTB in the upper and middle fields
+CHNCXR_0658_1.png,Male,41,bilateral secondary PTB  with right pneumothorax
+CHNCXR_0659_1.png,Male,33,secondary PTB  in the left upper field
+CHNCXR_0660_1.png,Male,50,1.bilateral secondary PTB  with right upper atelectasis;2.right pleural adhesions;3.left compensatory emphysema
+CHNCXR_0661_1.png,Male,26,bilateral secondary PTB  with right pleural thickening
+CHNCXR_0662_1.png,Male,32,secondary PTB  in the right upper field
